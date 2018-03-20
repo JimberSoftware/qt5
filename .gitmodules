@@ -2,7 +2,7 @@
 	path = qtbase
 	branch = 5.11
 	status = essential
-	url = https://github.com/qt/qtbase.git
+	url = https://github.com/JimberSoftware/qtbase.git
 [submodule "qtsvg"]
 	depends = qtbase
 	path = qtsvg
